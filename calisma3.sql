@@ -8,7 +8,7 @@
 
 ------ CEVAP 3
 -- SELECT title FROM film
--- WHERE title ILIKE 'T___%';
+-- WHERE title ILIKE '%t%%t%%t%%t%';
 
 ------- CEVAP 4 
 -- SELECT * FROM film
