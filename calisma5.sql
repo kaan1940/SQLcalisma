@@ -4,6 +4,7 @@
 -- SELECT * FROM film
 -- WHERE title ILIKE '%n'
 -- ORDER BY length DESC;
+-- LIMIT 5;
 
 ----------- CEVAP 2
 -- SELECT * FROM film
