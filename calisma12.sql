@@ -1,4 +1,4 @@
------------------- SQL CALISMA BASTAN TEKRAR ----------------
+------------------ SQL CALISMA VIDEO TEKRAR ----------------
 
 -- SELECT * FROM actor;
 
